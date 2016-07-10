@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.less","app.css","other.less","other.css"],"names":[],"mappings":"AAAA;EACC,WAAA;CCCA;;ACFD;EACC,WAAA;CCCA","file":"app.css","sourcesContent":[".app {\r\n\tcolor: red;\r\n}",".app {\n  color: red;\n}\n",".other {\r\n\tcolor: red;\r\n}",".other {\n  color: red;\n}\n"],"sourceRoot":"/source/"}
